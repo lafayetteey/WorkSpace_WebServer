@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;common&apos; to &apos;Jsp08_MVC/src&apos;&#x0A;- Original project: &apos;Jsp03_MVC&apos;&#x0A;- Destination element: &apos;Jsp08_MVC/src&apos;&#x0A;- Original element: &apos;Jsp03_MVC/src/common&apos;" description="Copy package" destination="=Jsp08_MVC/src" element1="/src&lt;common" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1594029709294" version="1.0"/>
+</session>
